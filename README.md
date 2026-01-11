@@ -10,8 +10,6 @@ Currently building:
 ## 🛠️ Tech Stack
 **Languages:** C, C++, C#. Java, Python, SQL  
 **Frameworks:** Spring Framework, Spring Boot
-**Tools:** Git, Maven, Docker  
-**Currently Learning:** Microservices Architecture
 
 ## 📫 Connect With Me
 - YouTube: https://www.youtube.com/@d_context
