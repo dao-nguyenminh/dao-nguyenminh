@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Đạo 👋
 
-<!--
-**dao-nguyenminh/dao-nguyenminh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+Java Developer & Programming Instructor passionate about clean code and software architecture.
 
-Here are some ideas to get you started:
+Currently building:
+- **Java Core Pro Course** - Comprehensive Java curriculum (42 sessions)
+- **League Of Coding project** - 1v1 Coding Battle Platform
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+**Languages:** C, C++, C#. Java, Python, SQL  
+**Frameworks:** Spring Framework, Spring Boot
+**Tools:** Git, Maven, Docker  
+**Currently Learning:** Microservices Architecture
+
+## 📫 Connect With Me
+- YouTube: https://www.youtube.com/@d_context
+- Discord: https://discord.gg/kjMaDA6D
+- Email: daonguyenminh.it@gmail.com
+
+---
+
+💡 *"Understanding context is everything in programming"*
