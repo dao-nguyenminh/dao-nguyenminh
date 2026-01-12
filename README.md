@@ -12,7 +12,7 @@ Currently building:
 **Frameworks:** Spring Framework, Spring Boot
 
 ## 📫 Connect With Me
-- YouTube: https://www.youtube.com/@d_context
+- YouTube: https://www.youtube.com/@contexttttt
 - Discord: https://discord.gg/kjMaDA6D
 - Email: daonguyenminh.it@gmail.com
 
