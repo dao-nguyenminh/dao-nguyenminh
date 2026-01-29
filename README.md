@@ -1,21 +1,22 @@
-# Hi there, I'm Đạo 👋
+# Đạo Nguyễn
 
-## 🚀 About Me
-Java Developer & Programming Instructor passionate about clean code and software architecture.
+Java Backend Developer
 
-Currently building:
-- **Java Core Pro Course** - Comprehensive Java curriculum (42 sessions)
-- **League Of Coding project** - 1v1 Coding Battle Platform
+## Skills
 
-## 🛠️ Tech Stack
-**Languages:** C, C++, C#. Java, Python, SQL  
-**Frameworks:** Spring Framework, Spring Boot
+**Core Java**  
+OOP, Collections, Generics, Stream API, Multithreading, I/O/NIO, Reflection
 
-## 📫 Connect With Me
-- YouTube: https://www.youtube.com/@contexttttt
-- Discord: https://discord.gg/kjMaDA6D
-- Email: daonguyenminh.it@gmail.com
+**Backend**  
+Spring Boot, Spring MVC, Spring Security, Spring Data JPA, Hibernate
+
+**Database**  
+PostgreSQL, MySQL, Redis, database design, query optimization
+
+**Tools & Others**  
+Git, Maven, Docker, REST API, JWT/OAuth2, WebSocket, Linux
 
 ---
 
-💡 *"Understanding context is everything in programming"*
+📧 daonguyenminh.it@gmail.com  
+🎥 youtube.com/@canthicode
