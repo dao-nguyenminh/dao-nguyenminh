@@ -19,4 +19,4 @@ Git, Maven, Docker, REST API, JWT/OAuth2, WebSocket, Linux
 ---
 
 📧 daonguyenminh.it@gmail.com  
-🎥 youtube.com/@canthicode
+🎥 [youtube.com/@canthicode](https://www.youtube.com/@canthicode)
