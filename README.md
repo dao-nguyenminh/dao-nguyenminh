@@ -1,22 +1,34 @@
-# Đạo Nguyễn
+<div align="center">
 
-Java Backend Developer
+# 👋 Đạo Nguyễn
 
-## Skills
+**Java Backend Developer**
 
-**Core Java**  
-OOP, Collections, Generics, Stream API, Multithreading, I/O/NIO, Reflection
+[![Email](https://img.shields.io/badge/Email-daonguyenminh.it%40gmail.com-red?style=flat-square&logo=gmail)](mailto:daonguyenminh.it@gmail.com)
+[![YouTube](https://img.shields.io/badge/YouTube-Can_Thi_Code-red?style=flat-square&logo=youtube)](https://www.youtube.com/@canthicode)
 
-**Backend**  
-Spring Boot, Spring MVC, Spring Security, Spring Data JPA, Hibernate
-
-**Database**  
-PostgreSQL, MySQL, Redis, database design, query optimization
-
-**Tools & Others**  
-Git, Maven, Docker, REST API, JWT/OAuth2, WebSocket, Linux
+</div>
 
 ---
 
-📧 daonguyenminh.it@gmail.com  
-🎥 [youtube.com/@canthicode](https://www.youtube.com/@canthicode)
+## 🛠️ Technical Skills
+
+### Core Java
+`OOP` `Collections` `Generics` `Stream API` `Multithreading` `I/O/NIO` `Reflection`
+
+### Backend Development
+`Spring Boot` `Spring MVC` `Spring Security` `Spring Data JPA` `Hibernate`
+
+### Database & Caching
+`PostgreSQL` `MySQL` `Redis` `Database Design` `Query Optimization`
+
+### Tools & DevOps
+`Git` `Maven` `Docker` `REST API` `JWT/OAuth2` `WebSocket` `Linux`
+
+---
+
+<div align="center">
+
+*"Understanding context is everything in programming"*
+
+</div>
