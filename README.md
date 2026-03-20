@@ -2,7 +2,7 @@
 
 # 👋 Đạo Nguyễn
 
-**Java Backend Developer**
+**Backend Developer**
 
 [![Email](https://img.shields.io/badge/Email-daonguyenminh.it%40gmail.com-red?style=flat-square&logo=gmail)](mailto:daonguyenminh.it@gmail.com)
 [![YouTube](https://img.shields.io/badge/YouTube-Can_Thi_Code-red?style=flat-square&logo=youtube)](https://www.youtube.com/@canthicode)
